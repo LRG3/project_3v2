@@ -1,6 +1,5 @@
-# project_3v2
+# Project_3
 
-Project_3
 • Project Name - MovieHub!
 
 • Team Members - Jared Wheet, Malorie Wright, Phongsavanh Xayvongsack (Sushi), and Robert Gonzalez
